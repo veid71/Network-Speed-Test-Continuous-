@@ -24,3 +24,6 @@ Save this file as credentials.json in the same directory (desktop for me) as you
 Share Your Google Sheet with the Service Account:
 Open the Google Sheet where you want to store the results.
 Click "Share" and add the service account email (found in the credentials file, typically ending with @<project-id>.iam.gserviceaccount.com) with "Editor" permissions.
+
+
+this was my first time writing a script and creating an actual github, feel free to edit the script for your situation or to add to or take away from it.
