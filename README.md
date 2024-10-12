@@ -25,5 +25,8 @@ Share Your Google Sheet with the Service Account:
 Open the Google Sheet where you want to store the results.
 Click "Share" and add the service account email (found in the credentials file, typically ending with @<project-id>.iam.gserviceaccount.com) with "Editor" permissions.
 
+im sure this could be converted into a batch file or service (or daemon for you linux users) somehow to allow it to run in the background but both versions will need the powershell/cmd prompt to be open (but can be minimized)
+this was my first time writing a script and creating an actual github, feel free to edit the script for your situation or to add to or take away from it.
+
 
 this was my first time writing a script and creating an actual github, feel free to edit the script for your situation or to add to or take away from it.
